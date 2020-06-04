@@ -123,5 +123,3 @@ print(func_final(10, 10, lambda x : x * 1000))
 
 
 
-
-
